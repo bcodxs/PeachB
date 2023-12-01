@@ -1,2 +1,2 @@
 # PeachB
-simple funciones para telegram-bot
+simple funciones para telegram-bot y otro derivados bot
